@@ -1,0 +1,45 @@
+Added Component: Designator=D1(CAP10UF)
+Added Component: Designator=D2(CAP10UF)
+Added Component: Designator=D3(CAP10UF)
+Added Component: Designator=P1(HDR1X2H)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1(ESP32_DEVKIT_V1)
+Added Component: Designator=U2(MQ_135)
+Added Component: Designator=U3(DHT11)
+Added Component: Designator=U5(LCD SH1106)
+Added Pin To Net: NetName=A0 Pin=U1-21
+Added Net: Name=A0
+Added Pin To Net: NetName=BUZZER Pin=U1-23
+Added Net: Name=BUZZER
+Added Pin To Net: NetName=DAT Pin=U1-25
+Added Net: Name=DAT
+Added Pin To Net: NetName=Gnd Pin=D1-2
+Added Pin To Net: NetName=Gnd Pin=D2-2
+Added Pin To Net: NetName=Gnd Pin=D3-2
+Added Pin To Net: NetName=Gnd Pin=P1-2
+Added Pin To Net: NetName=Gnd Pin=U1-2
+Added Pin To Net: NetName=Gnd Pin=U1-29
+Added Pin To Net: NetName=Gnd Pin=U5-4
+Added Net: Name=Gnd
+Added Pin To Net: NetName=GREEN Pin=D3-1
+Added Pin To Net: NetName=GREEN Pin=U1-22
+Added Net: Name=GREEN
+Added Pin To Net: NetName=RED Pin=D1-1
+Added Pin To Net: NetName=RED Pin=U1-26
+Added Net: Name=RED
+Added Pin To Net: NetName=SCL Pin=U1-14
+Added Pin To Net: NetName=SCL Pin=U5-2
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=U1-11
+Added Pin To Net: NetName=SDA Pin=U5-1
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=VCC Pin=U1-1
+Added Pin To Net: NetName=VCC Pin=U5-3
+Added Net: Name=VCC
+Added Pin To Net: NetName=YELLOW Pin=D2-1
+Added Pin To Net: NetName=YELLOW Pin=U1-24
+Added Net: Name=YELLOW
+Added Class: Name=Huu_Binh_IOT

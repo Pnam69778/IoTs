@@ -1,0 +1,18 @@
+Added Component: Designator=LS1(CUI_CMI-9605IC-0580T)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CMI-9605IC-0580T/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CMI-9605IC-0580T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CMI-9605IC-0580T/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Gnd Pin=LS1-N
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Pin To Net: NetName=Gnd Pin=U2-2
+Added Pin To Net: NetName=A0 Pin=U2-4
+Added Pin To Net: NetName=VCC Pin=U3-1
+Added Pin To Net: NetName=DAT Pin=U3-2
+Added Pin To Net: NetName=Gnd Pin=U3-3
+Added Pin To Net: NetName=LS1 Pin=LS1-P
+Added Pin To Net: NetName=LS1 Pin=U1-23
+Added Net: Name=LS1
+Added Member To Class: ClassName=Huu_Binh_IOT Member=Component LS1 CMI-9605IC-0580T
